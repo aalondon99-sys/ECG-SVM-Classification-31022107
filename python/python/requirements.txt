@@ -1,0 +1,8 @@
+wfdb==4.3
+numpy==2.4
+scipy==1.17
+PyWavelets==1.9
+scikit-learn==1.8
+matplotlib>=3.7
+seaborn>=0.12
+pandas>=2.0
